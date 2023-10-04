@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "attributes": {
+                "name": "The Complete Strapi Course",
+                "content": "The Complete Strapi course available in Udemy. Cupon in decription.",
+                "meta_decription": "The complete strapi course. The course you should be taking",
+                "meta_title": "The Complete Strapi Course - Entreprenerd Store",
+                "price": 12.99,
+                "slug": "the-complete-strapi-course",
+                "createdAt": "2023-09-16T17:04:39.460Z",
+                "updatedAt": "2023-09-16T17:05:43.435Z",
+                "publishedAt": "2023-09-16T17:05:43.432Z"
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "name": "The NextJs with Strapi Course",
+                "content": "This course is into works and may never be released. If you're interested check the link in description.",
+                "meta_decription": "The nextjs course description",
+                "meta_title": "The NextJs with Strapi Course - Entreprenerd Store",
+                "price": 497,
+                "slug": "the-next-js-with-strapi-course",
+                "createdAt": "2023-09-16T17:09:16.134Z",
+                "updatedAt": "2023-09-16T17:09:18.894Z",
+                "publishedAt": "2023-09-16T17:09:18.891Z"
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 2
+        }
+    }
+}
